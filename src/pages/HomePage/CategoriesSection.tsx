@@ -38,7 +38,7 @@ export default function CategoriesSection() {
         <div className="text-center mb-14 md:mb-18">
           <p className="text-xs tracking-[0.3em] uppercase text-[#8B7355] mb-3">Our Collection</p>
           <h2 className="font-serif text-3xl md:text-4xl text-[#3D2B1F] mb-4">
-            Twelve Categories of Wellness
+            Eight Categories of Wellness
           </h2>
           <div className="w-16 h-px bg-[#8B7355]/50 mx-auto" />
         </div>
